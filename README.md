@@ -51,3 +51,14 @@ python main.py
 ## Author
 MARIYAM VARGHESE
 GitHub: https://github.com/mariyamvarghese21-ctrl
+
+## Screenshots
+
+### Main Window
+![Main Window](screenshots/main_window.png)
+
+### Expense List
+![Expense List](screenshots/expense_list.png)
+
+### Expense Analytics Chart
+![Chart](screenshots/chart.png)
